@@ -1,0 +1,42 @@
+{
+  "name": "tinyrcapp",
+  "version": "1.0.0",
+  "description": "tinyRC mobile client",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iffyloop/tinyrcapp.git"
+  },
+  "keyword": [
+    "es6",
+    "javascript",
+    "react",
+    "react-native",
+    "remote",
+    "screensharing",
+    "webrtc"
+  ],
+  "author": "iffyloop",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/iffyloop/tinyrcapp/issues"
+  },
+  "homepage": "https://github.com/iffyloop/tinyrcapp#readme",
+  "dependencies": {
+    "react": "16.0.0",
+    "react-native": "0.51.0",
+    "react-native-webrtc": "^1.58.3",
+    "react-navigation": "^1.0.0-beta.23"
+  },
+  "devDependencies": {
+    "babel-jest": "22.0.4",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.0.4",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
