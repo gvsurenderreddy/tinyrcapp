@@ -1,5 +1,7 @@
 # tinyRC
 
+### Unfortunately, tinyRC is no longer maintained.
+
 tinyRC is a cross-platform screensharing and remote desktop tool, with an emphasis on remotely playing desktop games and emulators on a mobile device.
 This repo hosts the desktop client for the project. For the desktop client, see the [tinyrc-electron](https://github.com/iffyloop/tinyrc-electron) repo, and for the signaling server, visit the [tinyrc-node](https://github.com/iffyloop/tinyrc-node) repo.
 
